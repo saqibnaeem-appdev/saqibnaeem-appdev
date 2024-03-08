@@ -1,7 +1,7 @@
 [![MasterHead](https://t3.ftcdn.net/jpg/04/82/83/38/240_F_482833820_RsMjYlmLROzm92bP0dh2OvX3frd410oN.jpg)]
 <h1 align="center">Hi 👋, I'm Muhammad Saqib Naeem</h1>
 <h3 align="center">A passionate react native developer from Pakistan</h3>
-<p align="left"> <a href="https://twitter.com/appdev_49" target="blank"><img src="https://nkvak.medium.com/from-ux-to-web-development-c119a3171bf9" /></a> </p>
+<p align="left"> <a  target="blank"><img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...") /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/appdev_49" target="blank"><img src="https://img.shields.io/twitter/follow/appdev_49?logo=twitter&style=for-the-badge" alt="appdev_49" /></a> </p>
 
