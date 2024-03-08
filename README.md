@@ -1,11 +1,9 @@
 
-<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*FGD6BUzzZs1VJLuY.gif" alt="MasterHead" width="1200" height="500" >
+<img src="https://icons8.com/illustrations/author/HxMFjfKZdNq2" alt="MasterHead" width="1200" height="500" >
 
 <h1 align="center">Hi 👋, I'm Muhammad Saqib Naeem</h1>
 <h3 align="center">A passionate react native developer from Pakistan</h3>
-
-
-   |<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
 
 
