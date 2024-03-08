@@ -3,11 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Saqib Naeem</h1>
 <h3 align="center">A passionate react native developer from Pakistan</h3>
-<p align="left"> 
-  <a href="https://twitter.com/appdev_49" target="blank">
-    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
-  </a> 
-</p>
+
+
+   <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+ 
 
 
 
