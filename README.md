@@ -1,4 +1,4 @@
-[![MasterHead]([https://gteches.com/wp-content/uploads/2023/05/mobile.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FShaw145&psig=AOvVaw1UUIQqptAiMgPIW8quvfbn&ust=1709985693724000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCKmaDP5IQDFQAAAAAdAAAAABAE))
+[![MasterHead](https://t3.ftcdn.net/jpg/04/82/83/38/240_F_482833820_RsMjYlmLROzm92bP0dh2OvX3frd410oN.jpg)
 <h1 align="center">Hi 👋, I'm Muhammad Saqib Naeem</h1>
 <h3 align="center">A passionate react native developer from Pakistan</h3>
 <p align="left"> <a href="https://twitter.com/appdev_49" target="blank"><img src="https://nkvak.medium.com/from-ux-to-web-development-c119a3171bf9" /></a> </p>
