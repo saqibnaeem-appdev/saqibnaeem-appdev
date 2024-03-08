@@ -1,4 +1,5 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*FGD6BUzzZs1VJLuY.gif)](https://images.app.goo.gl/mXgRagtj1JX6sd9d9)
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*FGD6BUzzZs1VJLuY.gif" alt="MasterHead" width="500" height="300">
 
 <h1 align="center">Hi 👋, I'm Muhammad Saqib Naeem</h1>
 <h3 align="center">A passionate react native developer from Pakistan</h3>
