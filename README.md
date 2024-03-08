@@ -1,5 +1,5 @@
 
-<img src="https://media.licdn.com/dms/image/D4D12AQG1-1xLPzoLsw/article-cover_image-shrink_720_1280/0/1653971382299?e=1715212800&v=beta&t=UQg56_2FJ6ygP66za-0njMFlAvhe6L4git0tnRv6egI" alt="MasterHead" width="1400" height="500" >
+<img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/0*FGD6BUzzZs1VJLuY.gif" alt="MasterHead" width="1200" height="500" >
 
 <h1 align="center">Hi 👋, I'm Muhammad Saqib Naeem</h1>
 <h3 align="center">A passionate react native developer from Pakistan</h3>
